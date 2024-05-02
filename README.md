@@ -6,4 +6,6 @@
 
 2. Particle systems play a vital role in the art of interactive settings. Particle systems can produce complex, mesmerising visual effects that are both beautiful and engaging. At the same time, it can also respond to sounds, such as changing its own arrangement or colour according to the frequency of the sound, etc. It can bring a double impact to users both visually and emotionally.Particle systems are highly interactive and respond to user input.
 
-3. ![An image of the example 1](readmeImages/picture-1.jpeg)
+3. Here are my inspiration pictures：
+![An image of the example 1](readmeImages/picture-1.jpeg)
+![An image of the example 2](readmeImages/picture-2.jpeg)
