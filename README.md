@@ -20,4 +20,4 @@
 
 4. Here are the image to show the coding technique in action.
 ![An image of the particles](readmeImages/particle-1.jpeg)
-![An image of the particles](readmeImages/particle-2.jpeg)
+![An image of the particles](readmeImages/particle-2.png)
