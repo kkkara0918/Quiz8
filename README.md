@@ -19,5 +19,5 @@
 3. As can be seen in the example, users can change the shape and color of particles themselves and interact directly with the screen. For example: "particles.shape.type" or "particles.color.value". The former can adjust the shape and state of particles and the latter can adjust their color to improve user engagement.
 
 4. Here are the image to show the coding technique in action.
-![An image of the Particles](readmeImage/particle-1.jpeg)
-![An image of the Particles](readmeImage/paeticle-2.jpeg)
+![An image of the particles](readmeImages/particle-1.jpeg)
+![An image of the particles](readmeImages/paeticle-2.jpeg)
